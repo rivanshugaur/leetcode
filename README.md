@@ -20,6 +20,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
 ## Dynamic Programming
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [2498-frog-jump-ii](https://github.com/rivanshugaur/leetcode/tree/master/2498-frog-jump-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
