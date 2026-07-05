@@ -49,4 +49,20 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
