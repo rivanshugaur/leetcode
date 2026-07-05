@@ -6,6 +6,7 @@
 | ------- |
 | [0198-house-robber](https://github.com/rivanshugaur/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rivanshugaur/leetcode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/rivanshugaur/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0403-frog-jump](https://github.com/rivanshugaur/leetcode/tree/master/0403-frog-jump) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rivanshugaur/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2498-frog-jump-ii](https://github.com/rivanshugaur/leetcode/tree/master/2498-frog-jump-ii) |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/rivanshugaur/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
