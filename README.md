@@ -55,6 +55,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -77,4 +78,12 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
