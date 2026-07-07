@@ -20,12 +20,14 @@
 ## Simulation
 |  |
 | ------- |
+| [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rivanshugaur/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
+| [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Stack
+|  |
+| ------- |
+| [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
