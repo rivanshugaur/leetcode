@@ -11,6 +11,7 @@
 | [0403-frog-jump](https://github.com/rivanshugaur/leetcode/tree/master/0403-frog-jump) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rivanshugaur/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/rivanshugaur/leetcode/tree/master/2498-frog-jump-ii) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/rivanshugaur/leetcode/tree/master/2498-frog-jump-ii) |
 ## Greedy
 |  |
@@ -64,6 +66,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -99,6 +103,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Stack
 |  |
 | ------- |
@@ -118,4 +123,5 @@
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
