@@ -59,6 +59,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -85,13 +86,16 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 <!---LeetCode Topics End-->
