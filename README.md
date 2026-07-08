@@ -34,6 +34,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rivanshugaur/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rivanshugaur/leetcode/tree/master/0213-house-robber-ii) |
@@ -62,6 +63,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
