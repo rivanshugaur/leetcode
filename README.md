@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0020-valid-parentheses) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 ## Linked List
