@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/rivanshugaur/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rivanshugaur/leetcode/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/rivanshugaur/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 | [0403-frog-jump](https://github.com/rivanshugaur/leetcode/tree/master/0403-frog-jump) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rivanshugaur/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -31,6 +32,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 | [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 ## Dynamic Programming
 |  |
@@ -47,6 +49,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/rivanshugaur/leetcode/tree/master/2498-frog-jump-ii) |
@@ -59,6 +62,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -136,4 +140,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
