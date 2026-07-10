@@ -6,6 +6,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/rivanshugaur/leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rivanshugaur/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/rivanshugaur/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rivanshugaur/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rivanshugaur/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rivanshugaur/leetcode/tree/master/0213-house-robber-ii) |
@@ -53,6 +54,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/rivanshugaur/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
