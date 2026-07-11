@@ -167,4 +167,8 @@
 |  |
 | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/rivanshugaur/leetcode/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
