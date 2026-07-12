@@ -100,6 +100,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -132,6 +133,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -140,6 +142,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Backtracking
