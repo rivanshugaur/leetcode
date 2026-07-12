@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rivanshugaur/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/rivanshugaur/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rivanshugaur/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rivanshugaur/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -72,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/rivanshugaur/leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/rivanshugaur/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rivanshugaur/leetcode/tree/master/0242-valid-anagram) |
