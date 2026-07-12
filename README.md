@@ -145,6 +145,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0206-reverse-linked-list](https://github.com/rivanshugaur/leetcode/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0620-not-boring-movies](https://github.com/rivanshugaur/leetcode/tree/master/0620-not-boring-movies) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rivanshugaur/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
