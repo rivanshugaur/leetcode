@@ -13,7 +13,7 @@ public:
                 if(st.empty()) return false;
                 char ch = st.top();
                 if((ch=='(' && s[i]==')') || (ch=='{' && s[i]=='}') || (ch=='[' && s[i]==']') ) st.pop();
-                else st.push(s[i]);
+                else return false;
             }
             i++;
         }
