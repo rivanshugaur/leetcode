@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/rivanshugaur/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/rivanshugaur/leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/rivanshugaur/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rivanshugaur/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rivanshugaur/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rivanshugaur/leetcode/tree/master/0162-find-peak-element) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/rivanshugaur/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rivanshugaur/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rivanshugaur/leetcode/tree/master/0213-house-robber-ii) |
@@ -159,6 +161,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rivanshugaur/leetcode/tree/master/0053-maximum-subarray) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
