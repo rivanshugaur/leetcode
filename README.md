@@ -143,6 +143,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/rivanshugaur/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 ## Linked List
 |  |
@@ -191,4 +192,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rivanshugaur/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/rivanshugaur/leetcode/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rivanshugaur/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/rivanshugaur/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
