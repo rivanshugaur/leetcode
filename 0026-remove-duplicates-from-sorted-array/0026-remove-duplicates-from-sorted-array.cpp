@@ -10,8 +10,9 @@ public:
                 j++;
             }
             else if(nums[j]!=nums[i]){
-                swap(nums[i+1],nums[j]);
+                //swap(nums[i+1],nums[j]);
                     i++;
+                    nums[i] = nums[j];
                     j++;
                 
             }
