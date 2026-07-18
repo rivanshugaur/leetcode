@@ -9,6 +9,7 @@
 | [0046-permutations](https://github.com/rivanshugaur/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rivanshugaur/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rivanshugaur/leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/rivanshugaur/leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rivanshugaur/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/rivanshugaur/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/rivanshugaur/leetcode/tree/master/0189-rotate-array) |
@@ -185,9 +186,11 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/rivanshugaur/leetcode/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/rivanshugaur/leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rivanshugaur/leetcode/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
