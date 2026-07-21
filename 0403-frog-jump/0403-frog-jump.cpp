@@ -1,31 +1,31 @@
 class Solution {
 public:
-    int t[2001][2001];
-    int n;
     unordered_map<int,int>mp;
-    bool solve(vector<int>& stones,int curr_idx, int prev_jump){
-        if(curr_idx==n-1) return true;
+    int dp[2001][2001];// dp[idx][k]
+    bool path(vector<int>& stones,int curr_sum,int k){
+        if(mp.find(curr_sum)==mp.end()) return false;
+        if(k<=0) return false;
+        int idx = mp[curr_sum];
+        if(dp[idx][k]!=-1) return dp[idx][k];
+        int n = stones.size();
+        if(idx == n-1) return dp[idx][k] = true;
+        
 
-        bool result = false;
-        if(t[curr_idx][prev_jump]!=-1) return t[curr_idx][prev_jump] ;
-        for(int next_jump = prev_jump-1;next_jump<=prev_jump+1;next_jump++){
-            if(next_jump>0){
-                if(mp.find(stones[curr_idx]+next_jump)!=mp.end()){
-                    result = result || solve(stones,mp[stones[curr_idx]+next_jump],next_jump);
-                }
-            }
-        }
-        return t[curr_idx][prev_jump] =  result;
+        bool i = path(stones, curr_sum+k-1,k-1);//k-1
+        bool j = path(stones,curr_sum+k,k);//k
+        bool p = path(stones,curr_sum+k+1,k+1);//k+1
+
+        return dp[idx][k] =  i || j || p;
+
     }
+
     bool canCross(vector<int>& stones) {
-        n = stones.size();
-        if(stones[1]!=1) return false;
-        for(int i = 0;i<n;i++){
+        for(int i = 0;i<stones.size();i++){
             mp[stones[i]] = i;
         }
-        memset(t,-1,sizeof(t));
-        bool flag = solve(stones,mp[0],0);
-        return flag;
+        memset(dp,-1,sizeof(dp));
+        bool ans = path(stones,1,1);
+        return ans;
         
     }
 };
