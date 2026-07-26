@@ -92,6 +92,7 @@
 | [0217-contains-duplicate](https://github.com/rivanshugaur/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rivanshugaur/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rivanshugaur/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | [0125-valid-palindrome](https://github.com/rivanshugaur/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rivanshugaur/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rivanshugaur/leetcode/tree/master/0344-reverse-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rivanshugaur/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rivanshugaur/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/rivanshugaur/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Tree
 |  |
 | ------- |
