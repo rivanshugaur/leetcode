@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rivanshugaur/leetcode/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/rivanshugaur/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rivanshugaur/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/rivanshugaur/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/rivanshugaur/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/rivanshugaur/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rivanshugaur/leetcode/tree/master/0213-house-robber-ii) |
@@ -240,4 +242,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rivanshugaur/leetcode/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rivanshugaur/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
