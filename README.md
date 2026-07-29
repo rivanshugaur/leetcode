@@ -65,6 +65,7 @@
 | [0062-unique-paths](https://github.com/rivanshugaur/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rivanshugaur/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rivanshugaur/leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/rivanshugaur/leetcode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/rivanshugaur/leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/rivanshugaur/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rivanshugaur/leetcode/tree/master/0213-house-robber-ii) |
@@ -108,6 +109,7 @@
 | [0014-longest-common-prefix](https://github.com/rivanshugaur/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/rivanshugaur/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rivanshugaur/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rivanshugaur/leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rivanshugaur/leetcode/tree/master/0242-valid-anagram) |
