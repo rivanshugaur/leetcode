@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/rivanshugaur/leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/rivanshugaur/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rivanshugaur/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rivanshugaur/leetcode/tree/master/0063-unique-paths-ii) |
@@ -88,6 +89,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/rivanshugaur/leetcode/tree/master/0044-wildcard-matching) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2498-frog-jump-ii](https://github.com/rivanshugaur/leetcode/tree/master/2498-frog-jump-ii) |
 ## Hash Table
@@ -110,6 +112,7 @@
 | [0014-longest-common-prefix](https://github.com/rivanshugaur/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/rivanshugaur/leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/rivanshugaur/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/rivanshugaur/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/rivanshugaur/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/rivanshugaur/leetcode/tree/master/0125-valid-palindrome) |
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rivanshugaur/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/rivanshugaur/leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/rivanshugaur/leetcode/tree/master/0206-reverse-linked-list) |
 ## Design
 |  |
