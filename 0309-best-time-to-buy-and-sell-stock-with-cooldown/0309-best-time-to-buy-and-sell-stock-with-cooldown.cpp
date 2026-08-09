@@ -1,35 +1,30 @@
 class Solution {
 public:
 
-    int solve(vector<int>& prices,int idx,int flag, vector<vector<int>> &dp){
-        //base case
-        if(idx>=prices.size()) return 0;
-
-        if(dp[idx][flag]!=-1) return dp[idx][flag];
-
-        if(flag){
-            int buy = -prices[idx] + solve(prices,idx+1,false,dp);
-            int not_buy = solve(prices,idx+1,true,dp);
-
-            return dp[idx][flag] =  max(buy,not_buy);
-
-        }
-        else{
-            int sell = prices[idx] + solve(prices,idx+2,true,dp);
-            int not_sell = solve(prices,idx+1,false,dp);
-
-            return dp[idx][flag] = max(sell,not_sell);
-
-        }
-        return 0;
-
-    }
-
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(n,vector<int>(2,-1));
-        int ans = solve(prices,0,true,dp);
-        return ans;
+        vector<vector<int>> dp(n+2,vector<int>(2,0));
+
+        for(int i = n-1;i>=0;i--){
+            for(int j = 0;j<=1;j++){
+                if(j==1){
+                    int buy = -prices[i] + dp[i+1][false];
+                    int not_buy = dp[i+1][true];
+                    dp[i][j] = max(buy,not_buy);
+                }
+                else{
+                    int sell = prices[i] + dp[i+2][true];
+                    int not_sell = dp[i+1][false];
+                    dp[i][j] = max(sell,not_sell);
+                }
+            }
+        }
+        return dp[0][1];
+        /*
+        returning dp[0][0] means assuming starting from day 0 and you already hold a stock which is wrong and
+
+        return dp[0][1] means assuming starting from day 0 and you are not holding any stock and are ready to buy on day 0 itself which is correct 
+        */
         
     }
 };
