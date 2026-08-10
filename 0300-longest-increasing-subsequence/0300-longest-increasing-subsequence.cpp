@@ -1,25 +1,26 @@
 class Solution {
 public:
-int dp[2501][2502]; //2502 beacause negative indexing is not allowed
-int length(vector<int>& nums,int idx,int last_idx){
-    //base case
-    if(idx==nums.size()) return 0;
 
-    //if(nums[idx]<last) return 0;
-    if(dp[idx][last_idx+1]!=-1) return dp[idx][last_idx+1];
-    
-    int notTake = length(nums,idx+1,last_idx);
-    int take = 0;
-    if(last_idx==-1 || nums[idx]>nums[last_idx]){
-        take = 1+length(nums,idx+1,idx);
+    int solve(vector<int>& nums,int idx,int prev,vector<vector<int>> &dp){
+        //base case
+        if(idx==nums.size()) return 0;
+
+        if(dp[idx][prev+1]!=-1) return dp[idx][prev+1];
+
+        if(prev==-1 || nums[idx]>nums[prev]){
+            int take = 1 + solve(nums,idx+1,idx,dp);
+            int not_take = solve(nums,idx+1,prev,dp);
+            return dp[idx][prev+1] = max(take,not_take);
+        }
+        else return dp[idx][prev+1] = solve(nums,idx+1,prev,dp);
     }
 
-    return dp[idx][last_idx+1] = max(take,notTake);
-}
     int lengthOfLIS(vector<int>& nums) {
-        memset(dp,-1,sizeof(dp));
-        int ans = length(nums,0,-1);
+        int n = nums.size();
+        vector<vector<int>> dp(n,vector<int>(n+2,-1));
+        int ans = solve(nums,0,-1,dp);
         return ans;
+
         
     }
 };
