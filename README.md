@@ -32,6 +32,7 @@
 | [0368-largest-divisible-subset](https://github.com/rivanshugaur/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/rivanshugaur/leetcode/tree/master/0403-frog-jump) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rivanshugaur/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/rivanshugaur/leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rivanshugaur/leetcode/tree/master/0063-unique-paths-ii) |
+| [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Database
 |  |
