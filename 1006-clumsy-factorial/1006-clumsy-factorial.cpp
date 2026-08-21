@@ -1,33 +1,35 @@
 class Solution {
 public:
-bool flag = true;
-    int factorial(int n){
-        //base case
-        if(n==0) return 0;
-        if(n==1) return -1;
-        if(n==2) return -2*1;
-        if(n==3) return -3*2/1;
-        if(n==4) return -(4*3/2)+1;
 
-        int ans;
+    int fact(int n,bool flag){
+        if(n==1) return -1;
+        if(n==2) return -2;
+        if(n==3) return -6;
+        if(n==4) return -5;
+
+        int x;
+
         if(flag){
-            ans = ((n*(n-1))/(n-2)) + (n-3);
-            flag = false;
+            x = (-n*(n-1))/(n-2)+(n-3);
+            return x + fact(n-4,flag);
+            
         }
         else {
-            ans = ((-n*(n-1))/(n-2)) + (n-3);
+            x = (n*(n-1))/(n-2)+(n-3);
+            return x + fact(n-4,!flag);
         }
-        return ans + factorial(n-4);
-    }
-    int clumsy(int n) {
-        if(n==0) return 0;
-        if(n==1) return 1;
-        if(n==2) return 2*1;
-        if(n==3) return 3*2/1;
-        if(n==4) return (4*3/2)+1;
-       int res = factorial(n);
-       return res;
+        return 0;
 
+        
+    }
+
+    int clumsy(int n) {
+        if(n==1) return 1;
+        if(n==2) return 2;
+        if(n==3) return 6;
+        if(n==4) return 7;
+        int ans = fact(n,false);
+        return ans;
         
     }
 };
