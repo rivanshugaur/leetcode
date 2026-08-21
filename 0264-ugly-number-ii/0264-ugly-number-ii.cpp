@@ -2,21 +2,34 @@ class Solution {
 public:
 
     int nthUglyNumber(int n) {
-        int ai = 0;
-        int bi = 0;
-        int ci = 0;
-        vector<int>ans(n);
-        ans[0] = 1;
-        for(int i = 1;i<n;i++){
-            int a = ans[ai]*2;
-            int b = ans[bi]*3;
-            int c = ans[ci]*5;
+        if(n==1) return 1;
+      
+        priority_queue<long long,vector<long long>, greater<long long>> minheap;
+        unordered_set<long long> st;
+        vector<long long> ans;
+        minheap.push(1);
+        for(int i = 1;i<=n;i++){
 
-            ans[i] = min({a,b,c});
-            if(ans[i]==a) ai++;
-            if(ans[i]==b) bi++;
-            if(ans[i]==c) ci++;
+            long long mini = minheap.top();
+            minheap.pop();
+            ans.push_back(mini);
 
+            long long a = mini*2;
+            long long b = mini*3;
+            long long c = mini*5;
+
+            if(st.find(a)==st.end()){
+                st.insert(a);
+                minheap.push(a);
+            }
+            if(st.find(b)==st.end()){
+                st.insert(b);
+                minheap.push(b);
+            }
+            if(st.find(c)==st.end()){
+                st.insert(c);
+                minheap.push(c);
+            }
         }
         return ans[n-1];
         
