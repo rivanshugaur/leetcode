@@ -31,6 +31,7 @@
 | [0322-coin-change](https://github.com/rivanshugaur/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/rivanshugaur/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/rivanshugaur/leetcode/tree/master/0403-frog-jump) |
+| [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
@@ -91,6 +92,7 @@
 | [0322-coin-change](https://github.com/rivanshugaur/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/rivanshugaur/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/rivanshugaur/leetcode/tree/master/0403-frog-jump) |
+| [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/rivanshugaur/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 ## Memoization
 |  |
@@ -162,6 +164,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/rivanshugaur/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/rivanshugaur/leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
@@ -259,6 +262,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rivanshugaur/leetcode/tree/master/0063-unique-paths-ii) |
+| [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Database
