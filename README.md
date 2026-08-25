@@ -36,6 +36,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rivanshugaur/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rivanshugaur/leetcode/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rivanshugaur/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -162,6 +163,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/rivanshugaur/leetcode/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -173,11 +175,13 @@
 | [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rivanshugaur/leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/rivanshugaur/leetcode/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
@@ -272,6 +276,7 @@
 | [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/rivanshugaur/leetcode/tree/master/1020-number-of-enclaves) |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Database
 |  |
