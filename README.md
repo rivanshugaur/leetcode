@@ -17,6 +17,7 @@
 | [0120-triangle](https://github.com/rivanshugaur/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rivanshugaur/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/rivanshugaur/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/rivanshugaur/leetcode/tree/master/0162-find-peak-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/rivanshugaur/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/rivanshugaur/leetcode/tree/master/0189-rotate-array) |
@@ -155,6 +156,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rivanshugaur/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/rivanshugaur/leetcode/tree/master/0207-course-schedule) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rivanshugaur/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -165,6 +167,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/rivanshugaur/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/rivanshugaur/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
@@ -173,6 +176,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/rivanshugaur/leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
@@ -265,6 +269,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/rivanshugaur/leetcode/tree/master/0063-unique-paths-ii) |
+| [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/rivanshugaur/leetcode/tree/master/0994-rotting-oranges) |
 | [1901-find-a-peak-element-ii](https://github.com/rivanshugaur/leetcode/tree/master/1901-find-a-peak-element-ii) |
