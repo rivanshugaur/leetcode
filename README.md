@@ -49,6 +49,7 @@
 | [0027-remove-element](https://github.com/rivanshugaur/leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/rivanshugaur/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rivanshugaur/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rivanshugaur/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/rivanshugaur/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rivanshugaur/leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/rivanshugaur/leetcode/tree/master/0189-rotate-array) |
@@ -230,6 +231,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rivanshugaur/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/rivanshugaur/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/rivanshugaur/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/rivanshugaur/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/rivanshugaur/leetcode/tree/master/0206-reverse-linked-list) |
