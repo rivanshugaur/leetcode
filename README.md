@@ -283,6 +283,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/rivanshugaur/leetcode/tree/master/0176-second-highest-salary) |
 | [0620-not-boring-movies](https://github.com/rivanshugaur/leetcode/tree/master/0620-not-boring-movies) |
 ## Recursion
 |  |
