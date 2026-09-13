@@ -289,6 +289,7 @@
 | [0550-game-play-analysis-iv](https://github.com/rivanshugaur/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0610-triangle-judgement](https://github.com/rivanshugaur/leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/rivanshugaur/leetcode/tree/master/0620-not-boring-movies) |
+| [1164-product-price-at-a-given-date](https://github.com/rivanshugaur/leetcode/tree/master/1164-product-price-at-a-given-date) |
 ## Recursion
 |  |
 | ------- |
