@@ -292,6 +292,7 @@
 | [0626-exchange-seats](https://github.com/rivanshugaur/leetcode/tree/master/0626-exchange-seats) |
 | [1164-product-price-at-a-given-date](https://github.com/rivanshugaur/leetcode/tree/master/1164-product-price-at-a-given-date) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/rivanshugaur/leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1873-calculate-special-bonus](https://github.com/rivanshugaur/leetcode/tree/master/1873-calculate-special-bonus) |
 ## Recursion
 |  |
 | ------- |
