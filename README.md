@@ -32,6 +32,7 @@
 | [0322-coin-change](https://github.com/rivanshugaur/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/rivanshugaur/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/rivanshugaur/leetcode/tree/master/0403-frog-jump) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rivanshugaur/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
 | [0713-subarray-product-less-than-k](https://github.com/rivanshugaur/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/rivanshugaur/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -136,6 +137,7 @@
 | [0242-valid-anagram](https://github.com/rivanshugaur/leetcode/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/rivanshugaur/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rivanshugaur/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/rivanshugaur/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3731-find-missing-elements](https://github.com/rivanshugaur/leetcode/tree/master/3731-find-missing-elements) |
 ## String
@@ -272,6 +274,7 @@
 | [0242-valid-anagram](https://github.com/rivanshugaur/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rivanshugaur/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/rivanshugaur/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/rivanshugaur/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3731-find-missing-elements](https://github.com/rivanshugaur/leetcode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
