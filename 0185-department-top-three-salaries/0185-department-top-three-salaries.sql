@@ -1,7 +1,4 @@
 # Write your MySQL query statement below
-with cte as (
-    select d.name as Department , e.name as Employee, e.salary from Employee as e join Department as d on e.departmentId=d.id
-)
-select * from cte as c1 where 3>=(
-    select count(distinct salary) from cte as c2 where c2.department=c1.department and c1.salary<=c2.salary
-)
+with ctc as (select * from employee e1 where 3>=(select count(distinct e2.salary) from employee e2 where e2.salary>=e1.salary and e1.departmentId = e2.departmentId))
+
+select d.name as Department, c.name as Employee, c.salary as Salary from ctc c join Department as d on c.departmentId = d.id
