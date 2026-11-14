@@ -11,6 +11,7 @@
 | [0027-remove-element](https://github.com/rivanshugaur/leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/rivanshugaur/leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rivanshugaur/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/rivanshugaur/leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/rivanshugaur/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rivanshugaur/leetcode/tree/master/0078-subsets) |
@@ -65,6 +66,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0054-spiral-matrix) |
 | [1006-clumsy-factorial](https://github.com/rivanshugaur/leetcode/tree/master/1006-clumsy-factorial) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rivanshugaur/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -286,6 +288,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/rivanshugaur/leetcode/tree/master/0063-unique-paths-ii) |
 | [0130-surrounded-regions](https://github.com/rivanshugaur/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/rivanshugaur/leetcode/tree/master/0542-01-matrix) |
